@@ -29,5 +29,5 @@ jobs:
           host: ${{secrets.DEPLOY_HOST}}
           username: ${{secrets.DEPLOY_USER}}
           password: ${{secrets.DEPLOY_PASSWORD}}
-          script: cd /docker-static/static-file && git pull && cd .. && docker stop nginx && docker rm nginx && docker build -t docker-static . && docker run -p 8000:90 -name nginx docker-static
+          script: cd ~/docker-static/static-file/ && git pull && cd .. && docker stop nginx || true && docker rm nginx || true && docker build -t docker-static . && docker run -p 8000:90 --name nginx docker-static
       
