@@ -1,5 +1,5 @@
 {
-  "updateTime": "2023/10/27",
+  "updateTime": "2023/12/18",
   "products": [
     {
       "name": "招牌黄岐小肉燕",
@@ -16,12 +16,6 @@
     {
       "name": "青鳗小鱼丸【无馅】",
       "price": 3800,
-      "count": 0,
-      "unit": "斤"
-    },
-    {
-      "name": "扁鲛鱼丸",
-      "price": 3000,
       "count": 0,
       "unit": "斤"
     },
