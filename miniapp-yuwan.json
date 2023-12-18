@@ -2,14 +2,44 @@
   "updateTime": "2023/10/27",
   "products": [
     {
+      "name": "招牌黄岐小肉燕",
+      "price": 4000,
+      "count": 0,
+      "unit": "斤"
+    },
+    {
       "name": "青鳗鱼丸",
       "price": 3500,
       "count": 0,
       "unit": "斤"
     },
     {
-      "name": "马鲛鱼丸",
+      "name": "青鳗小鱼丸【无馅】",
+      "price": 3800,
+      "count": 0,
+      "unit": "斤"
+    },
+    {
+      "name": "扁鲛鱼丸",
       "price": 3000,
+      "count": 0,
+      "unit": "斤"
+    },
+    {
+      "name": "扁鲛鱼丸",
+      "price": 3000,
+      "count": 0,
+      "unit": "斤"
+    },
+    {
+      "name": "扁鲛小鱼丸【无馅】",
+      "price": 3200,
+      "count": 0,
+      "unit": "斤"
+    },
+    {
+      "name": "扁鲛鱼枣",
+      "price": 3200,
       "count": 0,
       "unit": "斤"
     },
@@ -26,7 +56,7 @@
       "unit": "斤"
     },
     {
-      "name": "正鮸鱼丸",
+      "name": "米（鮸）鱼丸",
       "price": 6500,
       "count": 0,
       "unit": "斤"
@@ -38,20 +68,26 @@
       "unit": "斤"
     },
     {
-      "name": "招牌酒糟鳗鱼",
+      "name": "招牌酒糟鳗鱼【生】",
       "price": 2500,
       "count": 0,
       "unit": "斤"
     },
     {
-      "name": "精品酒糟鳗鱼",
+      "name": "招牌酒糟鳗鱼",
+      "price": 2800,
+      "count": 0,
+      "unit": "斤"
+    },
+    {
+      "name": "精品酒糟鳗鱼【生】",
       "price": 3500,
       "count": 0,
       "unit": "斤"
     },
     {
-      "name": "招牌黄岐小肉燕",
-      "price": 4000,
+      "name": "精品酒糟鳗鱼",
+      "price": 3800,
       "count": 0,
       "unit": "斤"
     },
@@ -59,13 +95,13 @@
       "name": "招牌芋泥",
       "price": 2600,
       "count": 0,
-      "unit": "份"
+      "unit": "斤"
     },
     {
-      "name": "菠萝饭",
+      "name": "菠萝糯米饭",
       "price": 2500,
       "count": 0,
-      "unit": "份"
+      "unit": "斤"
     },
     {
       "name": "鲨鱼滑",
@@ -80,14 +116,8 @@
       "unit": "斤"
     },
     {
-      "name": "正鮸鱼滑",
+      "name": "米（鮸）鱼滑",
       "price": 4500,
-      "count": 0,
-      "unit": "斤"
-    },
-    {
-      "name": "肉片",
-      "price": 2300,
       "count": 0,
       "unit": "斤"
     },
@@ -106,6 +136,12 @@
     {
       "name": "白春只鱼面",
       "price": 3800,
+      "count": 0,
+      "unit": "斤"
+    },
+    {
+      "name": "连江鸡卷【生】",
+      "price": 3500,
       "count": 0,
       "unit": "斤"
     },
@@ -134,10 +170,16 @@
       "unit": "斤"
     },
     {
-      "name": "黄瓜鱼干",
-      "price": 2600,
+      "name": "黄瓜鱼干【小】",
+      "price": 2500,
       "count": 0,
       "unit": "只（约 250g)"
+    },
+    {
+      "name": "黄瓜鱼干【中】",
+      "price": 3500,
+      "count": 0,
+      "unit": "只（约 340g)"
     },
     {
       "name": "剥皮鱼干",
@@ -158,13 +200,13 @@
       "unit": "斤"
     },
     {
-      "name": "白春鱼干",
+      "name": "白春只鱼干",
       "price": 4200,
       "count": 0,
       "unit": "斤"
     },
     {
-      "name": "鮸鱼干",
+      "name": "米（鮸）鱼干",
       "price": 8500,
       "count": 0,
       "unit": "斤"
@@ -176,54 +218,58 @@
       "unit": "斤"
     },
     {
-      "name": "小虾米",
-      "price": 3500,
+      "name": "淡干虾米【小】",
+      "price": 4500,
       "count": 0,
-      "unit": "罐（约 250g）"
+      "unit": "斤"
     },
     {
-      "name": "大虾米",
-      "price": 6500,
+      "name": "淡干虾米【中】",
+      "price": 7000,
       "count": 0,
-      "unit": "罐（约 250g）"
+      "unit": "斤"
     },
     {
       "name": "丁香鱼干",
-      "price": 3500,
+      "price": 3800,
       "count": 0,
       "unit": "罐（约 250g）"
     },
     {
       "name": "盐带鱼",
-      "price": 3000,
+      "price": 8000,
       "count": 0,
-      "unit": "400g",
-      "defaultText": "时价"
+      "unit": "斤"
     },
     {
       "name": "鱿鱼干",
-      "price": 17500,
+      "price": 18500,
       "count": 0,
       "unit": "斤"
     },
     {
       "name": "目鱼干",
-      "price": 12500,
+      "price": 13800,
       "count": 0,
       "unit": "斤"
     },
     {
-      "name": "小蛏干",
+      "name": "蛏干【小】",
       "price": 23000,
       "count": 0,
       "unit": "斤"
     },
     {
-      "name": "大蛏干",
-      "price": 3000,
+      "name": "蛏干【中】",
+      "price": 28000,
       "count": 0,
-      "unit": "400g",
-      "defaultText": "缺货"
+      "unit": "斤"
+    },
+    {
+      "name": "蛏干【大】",
+      "price": 35000,
+      "count": 0,
+      "unit": "斤"
     }
   ]
 }
