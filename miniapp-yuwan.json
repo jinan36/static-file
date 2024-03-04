@@ -45,7 +45,7 @@
     },
     {
       "id": "0007",
-      "name": "扁鲛鱼枣",
+      "name": "马鲛鱼枣",
       "price": 3200,
       "count": 0,
       "unit": "500g",
@@ -83,7 +83,7 @@
     {
       "id": "0012",
       "name": "石斑鱼丸",
-      "price": 85,
+      "price": 8500,
       "count": 0,
       "unit": "500g",
       "defaultText": "缺货"
@@ -91,49 +91,49 @@
     {
       "id": "0013",
       "name": "招牌黄岐小肉燕【一斤装】",
-      "price": 40,
+      "price": 4000,
       "count": 0,
       "unit": "500g"
     },
     {
       "id": "0014",
       "name": "招牌黄岐小肉燕【半斤装】",
-      "price": 20,
+      "price": 2000,
       "count": 0,
       "unit": "250g"
     },
     {
       "id": "0015",
       "name": "马蹄肉燕",
-      "price": 35,
+      "price": 3500,
       "count": 0,
       "unit": "500g"
     },
     {
       "id": "0016",
       "name": "鱼燕（400g装）",
-      "price": 26,
+      "price": 2600,
       "count": 0,
       "unit": "400g"
     },
     {
       "id": "0017",
       "name": "鱼燕（500g装）",
-      "price": 30,
+      "price": 3000,
       "count": 0,
       "unit": "500g"
     },
     {
       "id": "0018",
       "name": "鱼饺",
-      "price": 26,
+      "price": 2600,
       "count": 0,
       "unit": "500g"
     },
     {
       "id": "0019",
       "name": "鱼香烧麦",
-      "price": 30,
+      "price": 3000,
       "count": 0,
       "unit": "400g"
     },
