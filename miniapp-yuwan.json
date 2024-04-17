@@ -77,16 +77,14 @@
       "name": "正鮸鱼丸【无馅】",
       "price": 6800,
       "count": 0,
-      "unit": "500g",
-      "defaultText": "缺货"
+      "unit": "500g"
     },
     {
       "id": "0012",
       "name": "石斑鱼丸",
-      "price": 8500,
+      "price": 6500,
       "count": 0,
-      "unit": "500g",
-      "defaultText": "缺货"
+      "unit": "500g"
     },
     {
       "id": "0013",
