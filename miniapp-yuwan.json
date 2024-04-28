@@ -105,7 +105,8 @@
       "name": "马蹄肉燕",
       "price": 3500,
       "count": 0,
-      "unit": "500g"
+      "unit": "500g",
+      "defaultText": "缺货"
     },
     {
       "id": "0016",
@@ -233,7 +234,8 @@
       "name": "正鮸鱼滑",
       "price": 4500,
       "count": 0,
-      "unit": "500g"
+      "unit": "500g",
+      "defaultText": "缺货"
     },
     {
       "id": "0034",
